@@ -1,0 +1,26 @@
+# <!-- Made By - Asmita Kumari -->
+
+
+#Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+#Django
+*.sqlite3
+db.sqlite3
+/media/
+/static/
+
+#Environments
+env/
+venv/
+.env
+
+#PyCharm
+.idea/
+
+#VSCode
+.vscode/
